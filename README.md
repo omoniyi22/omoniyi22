@@ -7,11 +7,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on BennyTech
 - 🌱 I’m currently learning django
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--->
+<!--- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about React Js or any tech related stuff
-- 📫 How to reach me: Twitter - @Omoniyi56312253 
+- 📫 How to reach me: [Twitter - @Omoniyi56312253](https://twitter.com/Omoniyi56312253), [LinkedIn](https://www.linkedin.com/in/omoniyi-oluwaseun-a922401b4)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spent play drums
