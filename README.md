@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m a full stack developer (React | Node)
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning web3 technologies for Solana (Rust)
 - 💬 Ask me about React Js or any tech related stuff
 - 📫 How to reach me: [Twitter - @Omoniyi56312253](https://twitter.com/Omoniyi56312253), [LinkedIn](https://www.linkedin.com/in/omoniyi-oluwaseun-a922401b4)
 - 😄 Pronouns: He/His
